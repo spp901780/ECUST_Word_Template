@@ -1,0 +1,2 @@
+# ECUST_Word_Template
+华东理工大学学位论文Word模板
